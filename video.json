@@ -1,18 +1,6 @@
 [
 	{
-		"name" : "https://staging.project-progress.net/projects/screendollars/sdwebvideo/POSTER-2023.MP4"
-	},
-	/*{
-		"name" : "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-	},
-	{
-		"name" : "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" 
-	},
-	{
-		"name" : "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" 
-	},
-	{
-		"name" : "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" 
+		"https://staging.project-progress.net/projects/screendollars/sdwebvideo/POSTER-2023.MP4"
 	}
-	*/
-] 
+	
+]
