@@ -3,9 +3,9 @@ Header set Access-Control-Allow-Origin "*"
 </IfModule>
 
 <Files "*.json">
-  Header set Access-Control-Allow-Origin "*"
-  Access-Control-Allow-Origin: *
-  Access-Control-Allow-Methods: GET, POST, PUT, DELETE
+  Header always add Access-Control-Allow-Origin *
+  Header always add Access-Control-Allow-Headers *
+  Header always add Access-Control-Allow-Methods *
   Access-Control-Allow-Headers: Authorization
 </Files>
 
