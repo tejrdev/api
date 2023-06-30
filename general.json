@@ -182,18 +182,18 @@
 		}
 	],
 	"genrename" : [
-		"genretitle" : "Action",		
-		"genretitle" : "Comedy",
-		"genretitle" : "Documentary",
-		"genretitle" : "Drama",
-		"genretitle" : "Fantasy",
-		"genretitle" : "Horror",
-		"genretitle" : "Musical",
-		"genretitle" : "Mystery",
-		"genretitle" : "Romance",
-		"genretitle" : "Science Fiction",
-		"genretitle" : "Thriller",
-		"genretitle" : "Western"
+		{"genretitle" : "Action"},	
+		{"genretitle" : "Comedy"},
+		{"genretitle" : "Documentary"},
+		{"genretitle" : "Drama"},
+		{"genretitle" : "Fantasy"},
+		{"genretitle" : "Horror"},
+		{"genretitle" : "Musical"},
+		{"genretitle" : "Mystery"},
+		{"genretitle" : "Romance"},
+		{"genretitle" : "Science Fiction"},
+		{"genretitle" : "Thriller"},
+		{"genretitle" : "Western"}
 	]
 }
 
